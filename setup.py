@@ -20,7 +20,7 @@ install_requires = [
     'Babel',
     'pyramid_formalchemy',
     'fa.jquery',
-    'WebOb',
+    'WebOb<=1.1.1',
     'Archive',
     ]
 
